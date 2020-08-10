@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi, I'm Salam 👋
+
+### I'm a husband, happy father and a huge fan of React!
+
+<br />
+<img align="left" alt="mariache's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mariache&show_icons=true&hide_border=true&theme=nord" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariache&layout=compact&theme=nord" />
+
 
 <!--
 **mariache/mariache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
