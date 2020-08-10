@@ -2,7 +2,7 @@
 
 ### I'm a husband, happy father and a huge fan of React!
 <br />
-I'm a software developer who is passionate about making world better at least a bit. Some technologies I enjoy working with : 
+I'm a software developer who is passionate about making world better at least a bit. Some technologies I enjoy working with: 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -13,24 +13,15 @@ I'm a software developer who is passionate about making world better at least a 
 
 
 
-<br /><br />
-**Languages and Tools:**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>    
+<br />
+ 
 
 <br />
 <img align="left" alt="mariache's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mariache&show_icons=true&hide=contribs&hide_border=true&theme=nord" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariache&layout=compact&theme=nord" />
 
-</br>
-## Find me around the web 🌎:
-- <a href="https://www.linkedin.com/in/omarbagaev/">LinkedIn</a> 💼
-- <a href="https://www.facebook.com/SalamOmarbagaev">Facebook</a>✍
-- <a href="https://twitter.com/salamomarbagaev"> Twitter</a>✍
+
+
 
 
 <!--
