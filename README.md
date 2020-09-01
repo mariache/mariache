@@ -1,6 +1,6 @@
 ## Hi, I'm Salam 👋
 
-### I'm a husband, happy father and a huge fan of React!
+### Husband, Happy father and a Huge fan of React!
 
 <br />
 I'm a software developer who is passionate about making the world a better place at least a bit. Some technologies I enjoy working with include: <br /><br />
