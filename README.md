@@ -12,7 +12,7 @@ I'm a software developer who is passionate about making the world a better place
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <br />
 <br />
----
+
 #### Connect with me:
 
 [<img align="left" alt="SalamOmarbagaev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
