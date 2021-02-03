@@ -40,9 +40,9 @@ I'm a software developer who is passionate about making the world a better place
 [linkedin-link]: https://www.linkedin.com/in/omarbagaev
 [facebook-link]: https://www.facebook.com/SalamOmarbagaev
 
-[twitter-image]: https://res.cloudinary.com/drkvsmrhd/image/upload/v1612346609/twitter_t1kils.png
-[youtube-image]: https://res.cloudinary.com/drkvsmrhd/image/upload/v1612346701/youtube_agmhto.png
-[instagram-image]: https://res.cloudinary.com/drkvsmrhd/image/upload/v1612346609/instagram_anlwag.png
-[linkedin-image]: https://res.cloudinary.com/drkvsmrhd/image/upload/v1612346724/linkedin_kulyx3.png
-[facebook-image]: https://res.cloudinary.com/drkvsmrhd/image/upload/v1612346609/facebook_ptptmo.png
+[twitter-image]: https://res.cloudinary.com/drkvsmrhd/image/upload/c_scale,w_24/v1612346609/twitter_t1kils.png
+[youtube-image]: https://res.cloudinary.com/drkvsmrhd/image/upload/c_scale,w_24/v1612346701/youtube_agmhto.png
+[instagram-image]: https://res.cloudinary.com/drkvsmrhd/image/upload/c_scale,w_24/v1612346609/instagram_anlwag.png
+[linkedin-image]: https://res.cloudinary.com/drkvsmrhd/image/upload/c_scale,w_24/v1612346724/linkedin_kulyx3.png
+[facebook-image]: https://res.cloudinary.com/drkvsmrhd/image/upload/c_scale,w_24/v1612346609/facebook_ptptmo.png
 
