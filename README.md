@@ -18,10 +18,12 @@ I'm a software developer who is passionate about making the world a better place
 
 #### Connect with me:
 
-[<img align="left" alt="SalamOmarbagaev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="SalamOmarbagaev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="SalamOmarbagaev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="SalamOmarbagaev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Salam Omarbagaev Twitter Link][twitter-image]][twitter-link] &nbsp; &nbsp;
+[![Salam Omarbagaev LinkedIn Link][linkedin-image]][linkedin-link] &nbsp; &nbsp;
+[![Salam Omarbagaev Instagram Link][instagram-image]][instagram-link] &nbsp; &nbsp;
+[![Salam Omarbagaev YouTube Link][youtube-image]][youtube-link] &nbsp; &nbsp;
+[![Salam Omarbagaev Facebook Link][facebook-image]][facebook-link] &nbsp; &nbsp;
+
 <br />
 <br />
 ---
@@ -32,11 +34,15 @@ I'm a software developer who is passionate about making the world a better place
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariache&theme=nord" />
 
 
+[twitter-link]: https://twitter.com/SalamOmarbagaev
+[youtube-link]: https://www.youtube.com/salamomarbagaev
+[instagram-link]: https://www.instagram.com/salam_o_nz/
+[linkedin-link]: https://www.linkedin.com/in/omarbagaev
+[facebook-link]: https://www.facebook.com/SalamOmarbagaev
 
+[twitter-image]: https://res.cloudinary.com/drkvsmrhd/image/upload/v1612346609/twitter_t1kils.png
+[youtube-image]: https://res.cloudinary.com/drkvsmrhd/image/upload/v1612346701/youtube_agmhto.png
+[instagram-image]: https://res.cloudinary.com/drkvsmrhd/image/upload/v1612346609/instagram_anlwag.png
+[linkedin-image]: https://res.cloudinary.com/drkvsmrhd/image/upload/v1612346724/linkedin_kulyx3.png
+[facebook-image]: https://res.cloudinary.com/drkvsmrhd/image/upload/v1612346609/facebook_ptptmo.png
 
-
-
-[twitter]: https://twitter.com/SalamOmarbagaev
-[youtube]: https://www.youtube.com/salamomarbagaev
-[instagram]: https://www.instagram.com/salam_o_nz/
-[linkedin]: https://www.linkedin.com/in/omarbagaev
