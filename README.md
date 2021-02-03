@@ -17,7 +17,6 @@ I'm a software developer who is passionate about making the world a better place
 [![Salam Omarbagaev Facebook Link][facebook-image]][facebook-link] &nbsp; &nbsp;
 
 <br />
-<br />
 ---
 
 📊 **Some GutHub Stats** 
