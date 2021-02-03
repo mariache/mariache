@@ -8,7 +8,7 @@
 
 I'm a software developer who is passionate about making the world a better place...
 
-#### Connect with me:
+<em>Connect with me:</em>
 
 [![Salam Omarbagaev Twitter Link][twitter-image]][twitter-link] &nbsp; &nbsp;
 [![Salam Omarbagaev LinkedIn Link][linkedin-image]][linkedin-link] &nbsp; &nbsp;
