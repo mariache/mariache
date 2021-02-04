@@ -21,7 +21,7 @@ I'm a software developer who is passionate about making the world a better place
 
 📊 **Some GutHub Stats** 
 
-<img align="left" alt="mariache's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mariache&show_icons=true&show_icons=true&include_all_commits=true&hide_border=true&theme=nord" />
+<img align="left" alt="mariache's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mariache&show_icons=true&show_icons=true&include_all_commits=true&hide_border=true&theme=nord&line_height=40" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariache&theme=nord" />
 
 
