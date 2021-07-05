@@ -24,6 +24,12 @@ I'm a software developer who is passionate about making the world a better place
 <img align="left" alt="mariache's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mariache&show_icons=true&show_icons=true&include_all_commits=true&hide_border=true&theme=nord&line_height=40" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariache&theme=nord" />
 
+<span align="left">
+
+
+![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mariache&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
+</span>
+
 
 [twitter-link]: https://twitter.com/SalamOmarbagaev
 [youtube-link]: https://www.youtube.com/salamomarbagaev
