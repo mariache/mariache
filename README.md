@@ -29,6 +29,7 @@ I'm a software developer who is passionate about making the world a better place
 
 ![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mariache&hide_border=true&theme=nord)
 </span>
+<img height="195" width="300" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/>
 
 
 [twitter-link]: https://twitter.com/SalamOmarbagaev
