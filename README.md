@@ -3,7 +3,7 @@
 
 ## Hi there, my name is Salam 👋
 
-### I'm a Husband💏, Happy father👨‍👩‍👧‍👦 and a Huge fan of React💻
+### I'm a Husband💑, Happy father👨‍👩‍👧‍👦 and a Huge fan of React💻
 
 
 I'm a software developer who is passionate about making the world a better place...
